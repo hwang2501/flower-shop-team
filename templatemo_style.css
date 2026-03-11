@@ -333,4 +333,13 @@ p {
 	text-decoration: none;
 }
 
+#about {
+	padding: 30px;
+	text-align: center;
+}
+
+#about p {
+	margin-top: 10px;
+}
+
 /* end of footer */
